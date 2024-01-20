@@ -234,6 +234,8 @@ img {
 .solutions-item {
   width: calc((100% - 24px * 3) / 4);
 }
+.link-icons {
+}
 .solutions-subtitle {
   color: #2e2f42;
   font-size: 20px;
@@ -291,6 +293,9 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.team-social {
+  display: flex;
 }
 .portfolio {
   padding: 120px 0 120px 0;
@@ -371,4 +376,14 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   width: 264px;
+}
+.footer-team-social {
+  display: flex;
+}
+.footer-social-media {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
