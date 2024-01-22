@@ -172,7 +172,7 @@ img {
 /**-----------------------Header--------------------**/
 
 /**-----------------------Main--------------------**/
-.main {
+.main-section-button {
   max-width: 1440px;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
@@ -221,7 +221,7 @@ img {
 .main-button:active {
   background-color: #404bbf;
 }
-
+/**-----------------------Solutions--------------------**/
 .solutions {
   padding: 120px 0;
 }
